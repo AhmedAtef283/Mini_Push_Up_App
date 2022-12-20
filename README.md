@@ -1,6 +1,8 @@
 # Mini Push Up Mobile Application 
 
-A Flutter project.
+A Flutter project which allow to the user to calculate the number of push ups he / she made using this app.
+This can be made by using the internal sensor of mobile phone Such as Geroscope , Accelerator sensor , Proximity Sensor...etc
+Proximity Sensor work principle is retrrn High if anyone near the head of the mobile phone, and Returns false when no one near the head of the mobile phone.
 
 ## Getting Started
 
