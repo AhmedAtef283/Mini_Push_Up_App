@@ -15,4 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![PROX SENSOR](https://user-images.githubusercontent.com/90651336/208563228-fecb6ffb-f499-4c28-ae54-c909d10f36d1.jpg)
+![PROX SENSOR](https://user-images.githubusercontent.com/90651336/208563228-fecb6ffb-f499-4c28-ae54-c909d10f36d1.jpg)![pushup](https://user-images.githubusercontent.com/90651336/208563402-ad16d821-bf67-4cfd-b460-c7505b3edf62.gif)
+
