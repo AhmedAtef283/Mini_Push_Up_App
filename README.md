@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # Components: 
- 1- Using Mobile Phone Proximity Sensor.
+ Using Mobile Phone Proximity Sensor.
+ 
 ![PROX SENSOR](https://user-images.githubusercontent.com/90651336/208563819-579a3590-14e1-4cc9-add9-a633ae6df48e.jpg)
 
- 2- Andriod Studio Software platform 
