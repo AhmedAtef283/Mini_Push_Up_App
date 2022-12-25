@@ -21,5 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 # Components: 
  Using Mobile Phone Proximity Sensor.
  
-![PROX SENSOR](https://user-images.githubusercontent.com/90651336/208563819-579a3590-14e1-4cc9-add9-a633ae6df48e.jpg)
+![PROX SENSOR](https://user-images![WhatsApp Image 2022-12-24 at 1 16 04 AM](https://user-images.githubusercontent.com/90651336/209483988-6a7f97d7-33a9-4eca-b7d1-e06b70c3d0ab.jpeg)
+.githubusercontent.com/90651336/208563819-579a3590-14e1-4cc9-add9-a633ae6df48e.jpg)
 
+![WhatsApp Image 2022-12-24 at 1 16 05 AM](https://user-images.githubusercontent.com/90651336/209483989-2250265d-e635-4166-ba42-fcce677ef774.jpeg)
